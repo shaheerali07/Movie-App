@@ -13,6 +13,9 @@ const Header = () => {
             alt="rmdb-logo"
           />
         </Link>
+        <div className="moviescafe">
+          <h1>MOVIES CAFE</h1>
+        </div>
         <img
           className="rmdb-tmdb-logo"
           src="./images/tmdb_logo.png"

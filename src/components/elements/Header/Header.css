@@ -15,6 +15,14 @@
   box-sizing: border-box;
   overflow: hidden;
 }
+.moviescafe {
+  float: left;
+  margin-left: 280px;
+  margin-top: 30px;
+  color: #01c96e;
+  font-family: serif;
+  text-align: center;
+}
 
 .rmdb-logo {
   width: 300px;
@@ -36,7 +44,7 @@
 
   .rmdb-tmdb-logo {
     display: inline-block;
-    width:80px;
+    width: 80px;
     margin-top: 0px;
   }
 
